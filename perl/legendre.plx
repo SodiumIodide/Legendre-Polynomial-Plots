@@ -1,7 +1,5 @@
 #!usr/bin/perl
 # By Corey Skinner
-# For NE 525: Methods of Analysis
-# Homework #4, Problem 2: Plotting Legendre Polynomials
 use warnings;
 use strict;
 use GD::Graph::lines; # Produces plot
